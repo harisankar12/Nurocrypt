@@ -1,0 +1,23 @@
+{
+  "name": "nurocrypt1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harisankar12/Nurocrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harisankar12/Nurocrypt/issues"
+  },
+  "homepage": "https://github.com/harisankar12/Nurocrypt#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
