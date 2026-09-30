@@ -138,3 +138,9 @@ app.post('/decrypt', (req, res) => {
 app.listen(port, () => {
   console.log(`🧠 Cipher server running on http://localhost:${port}`);
 });
+
+
+
+// Export functions for testing
+
+//co
